@@ -10,3 +10,5 @@ function cnh(idade) {
 }
 
 cnh(17)
+cnh(25)
+cnh(18)
