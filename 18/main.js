@@ -27,7 +27,7 @@ function countVowels(texto) {
       contagemVogal++; 
     }
   }  
-  return contagemVogal;
+  return contagemVogal;0
 }
 console.log(countVowels("Olá, mundo!"));
 console.log(countVowels("Este é um texto com várias vogais.")); 
